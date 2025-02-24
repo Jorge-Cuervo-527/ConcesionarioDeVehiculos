@@ -28,7 +28,7 @@
 El programa le permite al concesionario llevar un registro de las compras de vehiculos realizadas, almacenando la informacion de la compra de los vehiculos con sus respectivos atributos (codigo, marca, tipo, modelo, kilometraje y precio del vehiculo) estos datos se ingresan al programa en forma de entrada, teniendo asi un registro de los vehiculos (moto, automovil, camioneta) que se encuentran disponibles en el inventario del almacen para ser vendidos.
 El programa tambien le permite al concesionario llevar un registro de las ventas ingresando el código de vehículo que desea vender y los datos del comprador (nombre, apellido y documento) para de esta manera generar y almacenar todos los datos de los vehiculos vendidos y de los respectivos compradores (vehiculo vendido:, código:, marca:, tipo:, modelo:, kilometraje:, precio:, comprador: nombre y apellido, documento)
 </p>
-     Conclusiones:
+#### **Conclusiones:**
      
 <p>
 Pienso que este trabajo fue bastante nutritivo para mi aprendizaje ya que apenas estoy empezando en este camino de la programación, que por cierto hasta ahora me ha parecido complejo, pero a la misma vez maravilloso y fascinante. Estoy muy complacido, satisfecho y contento con el resultado obtenido en este proyecto en cuanto al aprendizaje obtenido, además me siento lleno de curiosidad por seguir explorando y adquiriendo conocimientos.
