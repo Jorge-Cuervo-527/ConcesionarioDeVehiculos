@@ -13,7 +13,7 @@
 
 #### Actividad de aprendizaje 1:
 ##### **Instrucciones:**
-##### - Desarrolla un proyecto para un concesionario de vehículos, teniendo en cuenta las siguientes características:
+##### Desarrolla un proyecto para un concesionario de vehículos, teniendo en cuenta las siguientes características:
 ##### - Los vehículos se clasifican en: autos, camionetas y motocicletas.
 ##### - Todos los vehículos tienen un código, una marca, tipo (auto, camioneta, etc.), un modelo (año) y un kilometraje.
 ##### - El concesionario necesita llevar un registro de las ventas realizadas, cada registro contiene la siguiente información:
