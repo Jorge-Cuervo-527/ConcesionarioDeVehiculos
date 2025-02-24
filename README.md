@@ -1,6 +1,6 @@
 # CONCESIONARIO DE VEHICULOS
 ## Programacion 1: Orientada a objetos basica
-## S25 evidencio de aprendizaje 1
+## S25 evidencia de aprendizaje 1
 
 
 #### Jorge Eliecer Cuervo Zapata
