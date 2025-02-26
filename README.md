@@ -6,7 +6,7 @@
 #### Jorge Eliecer Cuervo Zapata
 #### Grupo: PREICA2501B010016
 #### Docente: Julian Andres Loaiza
-#### Faculrad de ingenieria y ciencias agropecuarias
+#### Facultad de ingenieria y ciencias agropecuarias
 #### Tecnologia en desarrollo de software
 #### Institucion Universitaria Digital de Antioquia (IUDigital)
 #### 23 de febrero del 2025
@@ -40,7 +40,7 @@ Las principales fuentes en las que me apoye para en desarrollo de este proyecto 
 <p>
 Trabajo colaborativo: que consto de la formación de un equipó de cuatro estudiantes que nos dedicamos a comprender la raíz del problema y diseñar la solución a base de pura lógica. Siendo yo el más inexperto de los cuatro, tuve la oportunidad de comprender el código, el problema y la forma en como lo íbamos a solucionar; dándome esto la comprensión suficiente para interactuar con mis compañeros y poder aportas opiniones a la solución de dicho problema. Quedando muy agradecido con mis compañeros por la manera como me explicaron hasta estar seguros de que había comprendido totalmente el código de principio a fin.</p>
 <p>
-Juntos como equipo nos apoyamos de las herramientas chatgpt y copilot para realizar preguntas técnicas y de sintaxis, en ningún momento quisimos copiar y pegar código porque ese nunca fue nuestro objetivo. Todos estuvimos dispuestos a quemarnos la cabeza, desarrollando y entendiendo el código porque nuestro objetivo común principal es muy claro y es “Aprender”.
+Juntos como equipo nos apoyamos en el libro aprende Java con ejercicios y con las herramientas chatgpt y copilot para realizar preguntas técnicas y de sintaxis, en ningún momento quisimos copiar y pegar código porque ese nunca fue nuestro objetivo. Todos estuvimos dispuestos a quemarnos la cabeza, desarrollando y entendiendo el código porque nuestro objetivo común principal es muy claro y es “Aprender”.
 En este proyecto logre aprender y comprender algunos conceptos básicos de Java, como definir una clase y declarar sus atributos, también a crear el constructor para inicializar los atributos, a utilizar los métodos, la forma de crear diccionarios para almacenar datos de clave: valor, que se deben importar algunas herramientas para facilitar el desarrollo del código, también la importancia y la funcionalidad de los bucles y los condicionales dentro del código, entre otras cosas.   
 </p>
 
